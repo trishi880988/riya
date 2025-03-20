@@ -7,9 +7,9 @@ import sys
 from datetime import datetime
 
 # Environment variables
-API_ID = int(os.getenv("API_ID"))
-API_HASH = os.getenv("API_HASH")
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+API_ID = int(os.getenv("22437324"))
+API_HASH = os.getenv("b9505fe701524e3641517a46aec60936")
+BOT_TOKEN = os.getenv("7939035926:AAGzlDIws2hlo8oRjx5KZNLFe0xvOTMiLpE")
 WATERMARK_TEXT = "Telegram Id-@skillwithgaurav\nWebsite-Riyasmm.shop"
 OUTPUT_FILENAME = "watermarked_video.mp4"
 FONT_PATH = "arial.ttf"  # Ensure this font is available in the working directory
